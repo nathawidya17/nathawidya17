@@ -12,18 +12,12 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "Natha Widya Putra Nugraha",
   role: "Junior Front-End Developer",
   location: "Bandung, Indonesia 🇮🇩",
-  focus: ["Web Development", "UI/UX Implementation", "Responsive Design"],
-  currentlyLearning: ["Advanced React Patterns", "Performance Optimization"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
-</div>
 
 <br/>
 
